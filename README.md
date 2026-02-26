@@ -41,3 +41,4 @@ pip install google-api-python-client pandas openpyxl isodate
 5.运行
 
 python ytb_scraper.py
+<img width="922" height="902" alt="image" src="https://github.com/user-attachments/assets/c87ba132-e828-4c6a-88f3-49392d26abfd" />
